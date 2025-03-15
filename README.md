@@ -30,3 +30,8 @@ This repository contains a Python-based **crypto trading algorithm** that utiliz
 - Buy: MACD line crosses above the signal line.
 - Sell: MACD line crosses below the signal line.
 - Histogram indicates trend strength.
+
+
+## Contact.
+I have a discord?
+https://discord.gg/2SZm46Jevq
