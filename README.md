@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-GO READ ME ARTICLE HERE 
+GO READ ME ARTICLE HERE  = https://blog.michaelrbparker.com/post/9
 
 This repository contains a Python-based **crypto trading algorithm** that utilizes **technical indicators** such as **Simple Moving Average (SMA), Exponential Moving Average (EMA), and Moving Average Convergence Divergence (MACD)**. The algorithm is designed to analyze Bitcoin (BTC) price data from the **Kraken API** and simulate **buy/sell signals** based on crossover strategies.
 
